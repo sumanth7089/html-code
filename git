@@ -29,3 +29,4 @@ git checkout <branch-name>
 
 					> git merge <branch_name>
  this is too cool 	
+ to update all things use git push --all 
