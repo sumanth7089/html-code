@@ -37,4 +37,4 @@ merge-conflict: git reflog
 
 to push without user id and password use ssh auth 
 
-password base auth is required for push, when we won't use ssh 
+password base auth is required for push, when we not  use ssh 
