@@ -36,3 +36,5 @@ git reflog -> gives all commit's from day1
 merge-conflict: git reflog
 
 to push without user id and password use ssh auth 
+
+password base auth is required for push, when we won't use ssh 
