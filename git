@@ -32,6 +32,5 @@ git checkout <branch-name>
  to update all things use git push --all 
  
 git reflog -> gives all commit's from day1
- to update all things use git push --all
 
 merge-conflict: git reflog 
