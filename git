@@ -34,3 +34,5 @@ git checkout <branch-name>
 git reflog -> gives all commit's from day1
 
 merge-conflict: git reflog 
+
+password base auth is required for push, when we won't use ssh 
